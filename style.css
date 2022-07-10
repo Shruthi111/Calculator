@@ -1,0 +1,42 @@
+.contain {
+  text-align: center;
+  margin-top: 23px;
+}
+
+table {
+  margin: auto;
+  border-spacing: 10px;
+}
+
+input {
+  font-size: 35px;
+  border: 3px solid rgb(139, 134, 134);
+  border-radius: 5px;
+  height: 80px;
+  text-align: right;
+}
+
+button {
+  width: 83px;
+  height: 66px;
+  font-size: 42px;
+  background-color: whitesmoke;
+  padding: 5px;
+  border-radius: 25px;
+  border: 2px solid rgb(153, 156, 189);
+}
+.calci {
+  display: inline-block;
+  background-color: rgb(39, 32, 32);
+  border: 10px solid grey;
+  border-radius: 60px;
+  padding: 25px;
+}
+
+button:hover {
+  color: tomato;
+}
+
+#spl {
+  height: 10rem;
+}
